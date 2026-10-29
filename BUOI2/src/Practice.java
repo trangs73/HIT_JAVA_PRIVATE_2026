@@ -1,7 +1,6 @@
-package Buoi2;
-import java.util.Scanner;
-import java.util.List;
 import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
 
 public class Practice {
     static final List<String> names = new ArrayList<>();
